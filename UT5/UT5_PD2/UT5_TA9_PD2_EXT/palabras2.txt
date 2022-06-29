@@ -1,0 +1,4 @@
+abstract 10
+assert 20
+boolean 200
+break 60
